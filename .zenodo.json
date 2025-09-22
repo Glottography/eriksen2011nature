@@ -14,5 +14,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Eriksen, Love. 2011. Nature and Culture in Prehistoric Amazonia Using G.I.S. to reconstruct ancient ethnogenetic processes from archaeology, linguistics, geography, and ethnohistory. In.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ]
 }

@@ -12,7 +12,7 @@ cldfbench download cldfbench_eriksen2011nature.py
 ```shell
 cldfbench makecldf cldfbench_eriksen2011nature.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_eriksen2011nature.py
-cldfbench zenodo cldfbench_eriksen2011nature.py
+cldfbench zenodo --communities glottography cldfbench_eriksen2011nature.py
 cldfbench readme cldfbench_eriksen2011nature.py
 ```
 
