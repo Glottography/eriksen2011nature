@@ -1,4 +1,11 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+beto1237,Betoi,,,,beto1237,,41,dialect,Betoi-Jirara,dialects
+chan1322,Chané,,-18.186,-62.638,chan1322,,64,dialect,Arawakan,dialects
+guan1270,Kinikinao,,-19.1667,-54.0333,guan1270,,86,dialect,Arawakan,dialects
+mura1273,Múra,,,,mura1273,,150 151 152,dialect,Pirahã,dialects
+nahu1343,Nahukuá,,,,nahu1343,,153,dialect,Cariban,dialects
+nucl1771,Nuclear Betoi-Jirara,,,,nucl1771,,41,dialect,Betoi-Jirara,dialects
+paic1240,Paiconeca,,-15.0,-60.5,paic1240,,162,dialect,Arawakan,dialects
 acha1250,Achagua,,4.38649,-72.2005,acha1250,,1 2 173,language,Arawakan,languages
 agav1236,Agavotaguerra,,-13.29849,-53.43936,agav1236,,3,language,Unattested,languages
 agua1251,Aguano,,-5.25,-75.8333,agua1251,,4,language,Unattested,languages
